@@ -30,7 +30,7 @@ El sistema sigue el patrón de diseño **Modelo-Vista-Controlador**, lo que gara
 
 3.  **Ejecución**:
     * Ejecuta la clase `Main.java` para iniciar el menú interactivo.
-
+  
 ## 📋 Funcionalidades
 1.  **Registrar Película**: Captura título, año, descripción y precio.
 2.  **Listar Catálogo**: Muestra todas las películas almacenadas en la base de datos.
@@ -38,3 +38,17 @@ El sistema sigue el patrón de diseño **Modelo-Vista-Controlador**, lo que gara
 4.  **Validación de Datos**: Manejo de excepciones SQL para evitar cierres inesperados.
 
 ---
+<p align="center">
+  <b>Hecho con ❤️ por Melissa Gómez en Factoría F5</b><br>
+  <i>"Rompiendo brechas a través del código"</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ResilenteMG">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
